@@ -26,7 +26,7 @@
 }
 
 
-/////////////////////////  SECTION Image
+/////////////////////////  Scenario  Image
 //  from:  http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
 
 #scenario1.splash-wrap { // just background stuff
@@ -43,6 +43,14 @@
 	z-index: 10000;
 }
 
+#scenario1 h1 {
+	@media screen and (min-width: 320px) {
+		font-size: 24px;
+	}
+	@media screen and (min-width: 480px) {
+		font-size: 32px;
+	}
+}
 
 .splash-wrap { // sizing stuff
 	position: relative;
@@ -50,8 +58,15 @@
 }
 
 .splash-box {
-	margin-top: 30px;
+	@media screen and (min-width: 320px) {
+
+	margin-top: 0px;
 	padding: 20px;
+}
+	@media screen and (min-width: 768px) {
+	margin-top: 30px;
+		
+	}
 }
 
 #splash-center-top { // center positioning

@@ -1305,13 +1305,30 @@ ul.task-tags > li {
   width: auto;
   z-index: 10000;
 }
+@media screen and (min-width: 320px) {
+  #scenario1 h1 {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width: 480px) {
+  #scenario1 h1 {
+    font-size: 32px;
+  }
+}
 .splash-wrap {
   position: relative;
   height: 400px;
 }
-.splash-box {
-  margin-top: 30px;
-  padding: 20px;
+@media screen and (min-width: 320px) {
+  .splash-box {
+    margin-top: 0px;
+    padding: 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .splash-box {
+    margin-top: 30px;
+  }
 }
 #splash-center-top {
   position: absolute;

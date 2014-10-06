@@ -17,22 +17,24 @@
 	</div><!-- /.col-md-4 -->
 	<div class="col-md-6 pull-right">
 		<div class="fullwidth fullheight splash-wrap">
-			<div class="project-preview-box" style="background: blue;">project title</div>
-			<div class="project-preview-box" style="background: red;">project title</div>
-			<div class="project-preview-box" style="background: green;">project title</div>
-			<div class="project-preview-box" style="background: orange;">project title</div>
-			<div class="project-preview-box" style="background: orange;">project title</div>
-			<div class="project-preview-box" style="background: green;">project title</div>
-			<div class="project-preview-box" style="background: red;">project title</div>
-			<div class="project-preview-box" style="background: blue;">project title</div>
-			<div class="project-preview-box" style="background: blue;">project title</div>
-			<div class="project-preview-box" style="background: red;">project title</div>
-			<div class="project-preview-box" style="background: green;">project title</div>
-			<div class="project-preview-box" style="background: orange;">project title</div>
-			<div class="project-preview-box" style="background: orange;">project title</div>
-			<div class="project-preview-box" style="background: green;">project title</div>
-			<div class="project-preview-box" style="background: red;">project title</div>
-			<div class="project-preview-box" style="background: blue;">project title</div>
+			<div class="project-preview-box" style="background: #DDD;">project title</div>
+			
+			<div class="project-preview-box" style="background: #777;">project title</div>
+			<div class="project-preview-box" style="background: #444;">project title</div>
+			<div class="project-preview-box" style="background: #DDD;">project title</div>
+			<div class="project-preview-box" style="background: #AAA;">project title</div>
+			<div class="project-preview-box" style="background: #777;">project title</div>
+			<div class="project-preview-box" style="background: #AAA;">project title</div>
+			<div class="project-preview-box" style="background: #444;">project title</div>
+			<div class="project-preview-box" style="background: #DDD;">project title</div>
+			<div class="project-preview-box" style="background: #AAA;">project title</div>
+			<div class="project-preview-box" style="background: #444;">project title</div>
+			<div class="project-preview-box" style="background: #777;">project title</div>
+			
+			<div class="project-preview-box" style="background: #DDD;">project title</div>
+			<div class="project-preview-box" style="background: #AAA;">project title</div>
+			<div class="project-preview-box" style="background: #777;">project title</div>
+			<div class="project-preview-box" style="background: #444;">project title</div>
 		
 		</div>
 	</div>

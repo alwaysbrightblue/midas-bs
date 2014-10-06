@@ -1,3 +1,6 @@
+.block-center {
+  margin: 0 auto;
+}
 /*****************
 =  GLOBAL
 ******************/
@@ -219,6 +222,11 @@ h6 {
   margin-top: 0;
   font-family: 'Lato', 'Roboto', Helvetica, Arial, sans-serif;
   font-weight: 300;
+}
+.highlight {
+  background: #dd361a;
+  color: white;
+  padding: 5px 10px;
 }
 /*****************
 =  NAVBAR
@@ -1253,4 +1261,9 @@ ul.task-tags > li {
 }
 .markdown-edit textarea.form-control {
   width: 100%;
+}
+#splash {
+  background-image: url(/sections/hp/images/capitol-rotunda-floor-6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }

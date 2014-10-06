@@ -1,29 +1,15 @@
 ///  LESS FILE
 /// Compiles to /assets/styles/application.css to retain file structure of midas
 
+/////////////////////////////////////////////  BASE STYLES 
+
+@import 'variables.less';
+
+
 /*****************
 =  GLOBAL
 ******************/
 
-
-///////////////////////////////////////////////////////////////  COLORS
-@base: #dd361a;
-@complement1: spin(@base, 180);
-@complement2: darken(spin(@base, 180), 5%);
-@lighten1: lighten(@base, 15%);
-@lighten2: lighten(@base, 30%);
-@darken1: darken(@base, 5%);
-@darken2: darken(@base, 15%);
-
-////////////////////////////////////////////////////////////////  TRANSITION
-
-.transition (@prop: all, @time: 300ms, @ease: linear) {
-    -webkit-transition: @prop @time @ease;
-    -moz-transition: @prop @time @ease;
-    -o-transition: @prop @time @ease;
-    -ms-transition: @prop @time @ease;
-    transition: @prop @time @ease;
-}
 
 @font-face {
   font-family: 'Lato';
@@ -279,6 +265,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-family: 'Lato', 'Roboto', Helvetica, Arial, sans-serif;
   font-weight: 300;
+}
+
+.highlight {
+  background: @base;
+  color: white;
+  padding: 5px 10px;
 }
 
 /*****************
@@ -1498,3 +1490,8 @@ ul.task-tags > li {
 .markdown-edit textarea.form-control {
   width: 100%;
 }
+
+///////////////////////////////////////////////  IMPORT HOMEPAGE ROW STYLES FROM THEIR MODULES NOW SO THEY
+///////////////////////////////////////////////   INHERIT THE THEME STYLES 
+
+@import '../sections/hp/splash1.less';

@@ -1,0 +1,24 @@
+///////////////////////////////////////////////////////////////  COLORS
+@base: #dd361a;
+@complement1: spin(@base, 180);
+@complement2: darken(spin(@base, 180), 5%);
+@lighten1: lighten(@base, 15%);
+@lighten2: lighten(@base, 30%);
+@darken1: darken(@base, 5%);
+@darken2: darken(@base, 15%);
+
+////////////////////////////////////////////////////////////////  TRANSITION
+
+.transition (@prop: all, @time: 300ms, @ease: linear) {
+    -webkit-transition: @prop @time @ease;
+    -moz-transition: @prop @time @ease;
+    -o-transition: @prop @time @ease;
+    -ms-transition: @prop @time @ease;
+    transition: @prop @time @ease;
+}
+
+/////////////////////////////////////////////////////////////////  ALIGNMENT
+
+.block-center {
+	margin: 0 auto;
+}

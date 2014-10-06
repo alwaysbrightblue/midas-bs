@@ -7,8 +7,22 @@
 
 
 ///////////////////////////////////////////////////////////////  COLORS
-.midas-orange() {
-  color: #dd361a;
+@base: #dd361a;
+@complement1: spin(@base, 180);
+@complement2: darken(spin(@base, 180), 5%);
+@lighten1: lighten(@base, 15%);
+@lighten2: lighten(@base, 30%);
+@darken1: darken(@base, 5%);
+@darken2: darken(@base, 15%);
+
+////////////////////////////////////////////////////////////////  TRANSITION
+
+.transition (@prop: all, @time: 300ms, @ease: linear) {
+    -webkit-transition: @prop @time @ease;
+    -moz-transition: @prop @time @ease;
+    -o-transition: @prop @time @ease;
+    -ms-transition: @prop @time @ease;
+    transition: @prop @time @ease;
 }
 
 @font-face {
@@ -274,21 +288,56 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 18px;
 }
 
+.navbar-static-top {
+  border-radius: 0;
+  z-index: 1000;
+  border-width: 0 0 1px;
+}
+
+.navbar {
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.15), 0 1px 5px rgba(0,0,0,.75);
+  box-shadow: 0 1px 0 rgba(255,255,255,.15), 0 1px 5px rgba(0,0,0,.75);
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
+
 .navbar-default {
+
   .navbar-brand {
-    .midas-orange;
+    color: @base;
+  }
+  .navbar-nav {
+    li {
+      a {
+        color: @base;
+        text-shadow: none;
+        .transition(all, 300ms, ease-in);
+        &:hover, &:focus {
+          color: @darken2;
+
+        }
+      }
+    }
   }
 }
 
 .navigation {
   .navbar-brand {
-  
+    
     img {
       width: 256px;
       height: 40px;
-      margin-top: 15px;
+
     }
 }
+}
+
+.navbar-header {
+  @media (min-width: 768px) {
+    float: left;
+  }
 }
 
 .navbar .nav .navbar-title-small {

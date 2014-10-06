@@ -10,20 +10,31 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-        </div>
-          <div class="navbar-brand">
-          <a href="/"><img src="/assets/images/logo@2x.png" alt="Midas" title="Midas"></a>
+      
+         
+          <a class="navbar-brand" href="/"><img src="/assets/images/logo@2x.png" alt="Midas" title="Midas"></a>
           
-          </div> <!-- /.navbar-brand -->
+           </div> <!-- /.navbar-header -->
        
        
-      </div> <!-- /.row -->
+     
         <div id="main-nav">
         
         <div class="collapse navbar-collapse navbar-right">
-          <ul class="nav navbar-nav navbar-left">
-            <li><a href="/">Working Group</a></li>
-            <li><a href="/pages/products.php">Opportunities</a></li>
+          <ul class="nav navbar-nav">
+            <li class="projects"><a href="/projects" class="nav-link"><i class="fa fa-rocket"></i>
+            <span class="navbar-title-small" data-i18n="Browse">Browse</span><br>
+            <span class="navbar-title-big" data-i18n="Project_plural">Projects</span>
+          </a>
+        </li>
+            <li class="tasks"><a href="/tasks" class="nav-link"><i class="fa fa-tags"></i>
+            <span class="navbar-title-small" data-i18n="Browse">Browse</span><br>
+            <span class="navbar-title-big" data-i18n="Task_plural">Opportunities</span>
+          </a>
+        </li>
+            <li class="divider-vertical navbar-text"></li>
+            
+            <li class="navbar-1line"><a href="/auth" class="login"><i class="icon-plus-sign"></i> Sign In</a></li>
           </ul>
         </div><!--/.nav-collapse -->
         

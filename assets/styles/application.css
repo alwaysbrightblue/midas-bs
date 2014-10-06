@@ -1369,14 +1369,10 @@ ul.task-tags > li {
 }
 #scenario1.splash-wrap:after {
   content: "";
-  background: url(/sections/hp/scenario1/images/capitol-rotunda-floor-9.jpg) no-repeat 0 0;
+  background: url(/sections/hp/scenario1/images/capitol-rotunda-floor-9.jpg);
   opacity: .5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #splash-center-top {
   position: absolute;

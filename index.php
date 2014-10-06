@@ -6,6 +6,8 @@
     <?php include $docRoot.'/navbar.php'; // this also includes the Find A Dealer Search ?>
 
 	<!-- content -->
-	<?php include $docRoot.'/sections/hp/splash1.php';?>
+
+	<?php include $docRoot.'/sections/hp/splash1/splash1.php'; // this is the main splash image.  can change to carousel?>
+	<?php include $docRoot.'/sections/hp/scenario1/scenario1.php'; // this is a scenario section?>
 
 <?php include('footer.php'); ?> <?php // ending div tag for .container is in here ?>

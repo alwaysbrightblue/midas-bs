@@ -551,15 +551,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/homepage-sections\/splash1.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/homepage-sections\/splash1.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -695,7 +686,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sections\/hp\/splash1.less": {
+	"\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.67923e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431177,
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/scenario1\/scenario1.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -703,8 +716,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1.less",
-		"outputAbbreviatedPath": "\/sections\/css\/splash1.css",
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/scenario1.less",
+		"outputAbbreviatedPath": "\/sections\/hp\/css\/scenario1.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -715,11 +728,113 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/sections\/hp\/splash1.php": {
+	"\/sections\/hp\/scenario1\/scenario1.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1.php",
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/scenario1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.67923e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431177,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/splash1\/splash1.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/splash1.less",
+		"outputAbbreviatedPath": "\/sections\/hp\/css\/splash1.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/sections\/hp\/splash1\/splash1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/splash1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.67923e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-6.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431177,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-9.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sections\/hp\/splash2\/splash2.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash2\/splash2.less",
+		"outputAbbreviatedPath": "\/sections\/hp\/css\/splash2.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/sections\/hp\/splash2\/splash2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash2\/splash2.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

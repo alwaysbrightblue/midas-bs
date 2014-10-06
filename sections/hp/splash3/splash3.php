@@ -5,8 +5,8 @@
 // getting the idea out. - Gabe Lloyd, Oct 6 2014 ?>
 
 <div class="row-fluid padding-left-none padding-right-none">
-<div class="splash-wrap">
-			<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2 col-sm-3 col-sm-offset-1">
+<div class="inline-block-center">
+			
 			<div class="hero-wrapper">
 		      <div class="hero-widget well" id="allstar">
 		            <a href="#">
@@ -14,8 +14,8 @@
 		            <div class="text"><var>Save Time</var></div></a><!-- text -->
 		        </div> <!-- hero-widget well -->
 			    </div> <!-- hero-wrapper -->
-			</div> <!-- col-md-4 -->
-	    <div class="col-lg-3 col-md-3 col-sm-3">
+			
+	 
 	    	<div class="hero-wrapper">
 	      <div class="hero-widget well" id="facebook">
 	            <a href="#" target="_blank">
@@ -23,8 +23,7 @@
 	            <div class="text"><var>Make Connections</var></div></a>
 	            </div> <!-- hero-wrapper -->
 	       </div>
-	    </div>
-	    <div class="col-lg-3 col-md-3 col-sm-3">
+	    
 	    	<div class="hero-wrapper">
 	        <div class="hero-widget well" id="twitter">
 	            <a href="#" target="_blank">
@@ -32,7 +31,7 @@
 	            <div class="text"><var>Make a Difference</var></div></a>
 	        </div>
 	        </div> <!-- hero-wrapper -->
-	    </div>
+	
 	    <div class="clearfix"></div>
 	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">Get Started</button></a></div>
 </div><!-- /.splash-wrap -->

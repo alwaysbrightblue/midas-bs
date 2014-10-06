@@ -1369,13 +1369,32 @@ ul.task-tags > li {
 .btn-midas:active {
   color: #eee;
 }
+.inline-block-center {
+  text-align: center;
+}
+@media screen and (min-width: 980px) {
+  .inline-block-center {
+    height: 400px;
+    padding-top: 80px;
+  }
+}
 .hero-wrapper {
   text-align: center;
+  display: inline-block;
+}
+@media screen and (min-width: 320px) {
+  .hero-wrapper {
+    width: 33.33333%;
+  }
+}
+@media screen and (min-width: 980px) {
+  .hero-wrapper {
+    width: 25%;
+  }
 }
 .hero-wrapper .hero-widget {
   position: relative;
   margin: 0 auto;
-  display: inline-block;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;

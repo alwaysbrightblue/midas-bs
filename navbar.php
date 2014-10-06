@@ -24,7 +24,7 @@
           <ul class="nav navbar-nav">
             <li class="projects"><a href="/projects" class="nav-link"><i class="fa fa-rocket"></i>
             <span class="navbar-title-small" data-i18n="Browse">Browse</span><br>
-            <span class="navbar-title-big" data-i18n="Project_plural">Projects</span>
+            <span class="navbar-title-big" data-i18n="Project_plural">Work Groups</span>
           </a>
         </li>
             <li class="tasks"><a href="/tasks" class="nav-link"><i class="fa fa-tags"></i>
@@ -34,7 +34,7 @@
         </li>
             <li class="divider-vertical navbar-text"></li>
             
-            <li class="navbar-1line"><a href="/auth" class="login"><i class="icon-plus-sign"></i> Sign In</a></li>
+            <li class="navbar-1line"><a href="/auth" class="login"><i class="fa fa-plus-circle"></i> Sign In</a></li>
           </ul>
         </div><!--/.nav-collapse -->
         

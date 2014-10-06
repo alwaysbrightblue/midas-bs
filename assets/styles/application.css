@@ -1330,6 +1330,11 @@ ul.task-tags > li {
     margin-top: 30px;
   }
 }
+@media screen and (min-width: 1200px) {
+  .splash-box {
+    margin-top: 70px;
+  }
+}
 #splash-center-top {
   position: absolute;
   top: 10%;

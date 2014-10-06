@@ -1,0 +1,182 @@
+/////////////////////////  Splash 1 Image
+//  from:  http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
+
+#splash1.splash-wrap { // just background stuff
+	background-image: url(/sections/hp/splash1/images/capitol-rotunda-floor-6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/////////////////////////  Splash 2 Image
+//  from:  http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
+
+#splash2.splash-wrap { // just background.  This might be overqualified for production enviro, so check once final layout is approved
+	background-image: url(/sections/hp/splash2/images/capitol-rotunda-floor-6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/////////////////////////  Splash 4 Image
+//  from:  http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
+
+#splash4.splash-wrap { // just background stuff
+	background-image: url(/sections/hp/splash4/images/prez.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+/////////////////////////  SECTION Image
+//  from:  http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
+
+#scenario1.splash-wrap { // just background stuff
+	background: url(/sections/hp/scenario1/images/capitol-rotunda-floor-9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.trans-cover-white {
+	content: "";
+	background: rgba(255,255,255,.7);
+	height: 100%;
+	width: auto;
+	z-index: 10000;
+}
+
+
+.splash-wrap { // sizing stuff
+	position: relative;
+	height: 400px;
+}
+
+#splash-center-top { // center positioning
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#splash-left { // left positioning
+	float: left;
+	margin-top: 80px;
+	padding: 20px;
+}
+
+#splash-right { // left positioning
+	float: right;
+	margin-top: 80px;
+	padding: 20px;
+}
+
+#splash-center { // positioning
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#splash-center { // look and feel
+	color: white;
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0,.5);
+	padding: 10px 20px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+//#splash-left { // calc centering on left positioning.  This works on desktop, but fails on responsive
+//	position: absolute;
+//	top: 50%;
+//	left: 50%;
+//	transform: translate(-100%, -50%);
+//}
+
+.text-on-dark { // look and feel
+	color: white;
+}
+
+.tall-text {
+	line-height: 1.6;
+}
+
+.btn-midas {
+	background: @base;
+	color: white;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 900;
+	.transition();
+	&:hover, &:focus {
+		background: @darken1;
+		color: white;
+		.transition ;
+	}
+	&:active {
+		color: #eee;
+	}
+}
+
+/////////////////////////////////  SOCIAL ICONS
+
+.hero-wrapper {
+	text-align: center;
+	.hero-widget{
+		position: relative;
+		margin: 0 auto;
+		display: inline-block;
+		text-align: center; 
+		padding-top: 20px; 
+		padding-bottom: 20px;
+		&.well {
+			background-color: transparent;
+			border: none;
+			box-shadow: none;
+			-webkit-box-shadow: none;
+		}
+	}
+	.icon { 
+		display: block; 
+		margin-bottom: 10px; 
+		text-align: center; 
+		@media screen and (min-width: 320px) {
+			font-size: 60px; 
+			line-height: 60px; 
+		}
+		@media screen and (min-width: 992px) {
+			font-size: 96px; 
+			line-height: 96px; 
+		}
+	}
+	var { 
+		display: block; 
+		font-style: normal; 
+		clear: both;
+		@media screen and (min-width: 320px){
+			font-size:14px;
+			line-height: 14px;
+			height: 32px;	
+		}
+		@media screen and (min-width: 992px){
+			font-size:18px;
+			line-height: 18px;	
+			height: 40px;
+		}
+	}
+}
+
+
+
+.hero-widget label { font-weight: 200; }
+.hero-widget .options { margin-top: 10px; }
+
+.well {
+	@media screen and (min-width: 320px){
+		padding: 10px;
+	}
+	@media screen and (min-width: 992px){
+		padding: 19px;
+	}
+
+}

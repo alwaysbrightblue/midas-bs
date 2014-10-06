@@ -7,7 +7,7 @@
 <div class="container-fluid padding-left-none padding-right-none" id="container">
 <div class="splash-wrap" id="splash4">
 	<div class="container">
-	<div class="col-md-4 vcenter">
+	<div class="col-md-4" id="splash-left">
 
 	<h1 class="text-center tall-text text-on-dark ">Open Opportunities has a <span class="highlight-complement1">solution</span> for you.</h1>
 	

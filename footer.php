@@ -1,5 +1,5 @@
 </div><!-- /.container -->
-<footer class="navbar-fixed-navbar" id="footer">
+<footer class="navbar-fixed-bottom" id="footer">
     <footer class="container">
     <div class="row">
     <section class="col-md-12"><a href="https://github.com/18F/midas"><i class="fa fa-github"></i> powered by midas</a>| version 0.0.17 (<a href="https://github.com/18F/midas/commit/8cee411dd9b46d5336e1165f006c94d948bdb1af">8cee411</a> | <a href="https://18f.gsa.gov/">Terms and Conditions</a> Copyright &copy; <?php echo date('Y'); ?> </section>

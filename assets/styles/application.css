@@ -1512,13 +1512,16 @@ ul.task-tags > li {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-#splash-center {
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+.text-on-dark {
   color: white;
-  background-color: #000000;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px 20px;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
+}
+.tall-text {
+  line-height: 1.6;
 }
 .btn-midas {
   background: #dd361a;

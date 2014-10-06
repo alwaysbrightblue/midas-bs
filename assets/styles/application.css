@@ -41,7 +41,7 @@ LATO 400 not used for anything right now
   src: local('Roboto Bold'), local('Roboto-Bold'), url(../fonts/roboto-700.woff) format('woff');
 }
 body {
-  background-color: #e5e5e5;
+  background-color: #f8f8f8;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
   font-weight: 300;
 }

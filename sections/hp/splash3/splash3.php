@@ -6,7 +6,7 @@
 
 <div class="row-fluid padding-left-none padding-right-none">
 <div class="splash-wrap">
-			<div class="col-md-3 col-md-offset-2">
+			<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2 col-sm-3 col-sm-offset-1">
 			<div class="hero-wrapper">
 		      <div class="hero-widget well" id="allstar">
 		            <a href="#">
@@ -15,7 +15,7 @@
 		        </div> <!-- hero-widget well -->
 			    </div> <!-- hero-wrapper -->
 			</div> <!-- col-md-4 -->
-	    <div class="col-md-3">
+	    <div class="col-lg-3 col-md-3 col-sm-3">
 	    	<div class="hero-wrapper">
 	      <div class="hero-widget well" id="facebook">
 	            <a href="#" target="_blank">
@@ -24,7 +24,7 @@
 	            </div> <!-- hero-wrapper -->
 	       </div>
 	    </div>
-	    <div class="col-md-3">
+	    <div class="col-lg-3 col-md-3 col-sm-3">
 	    	<div class="hero-wrapper">
 	        <div class="hero-widget well" id="twitter">
 	            <a href="#" target="_blank">
@@ -33,6 +33,7 @@
 	        </div>
 	        </div> <!-- hero-wrapper -->
 	    </div>
-	
+	    <div class="clearfix"></div>
+	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">Get Started</button></a></div>
 </div><!-- /.splash-wrap -->
 </div><!-- /.row-fluid-->

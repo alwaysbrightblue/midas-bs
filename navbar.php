@@ -1,4 +1,4 @@
- <nav class="navbar navbar-default" role="navigation">
+ <nav class="navbar navbar-default navbar-static-top navigation" role="navigation">
       <div class="container">
       
         
@@ -14,7 +14,6 @@
           <div class="navbar-brand">
           <a href="/"><img src="/assets/images/logo@2x.png" alt="Midas" title="Midas"></a>
           
-         
           </div> <!-- /.navbar-brand -->
        
        

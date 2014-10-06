@@ -62,9 +62,6 @@ input {
     margin-right: 0;
   }
 }
-.navbar-toggle {
-  margin-top: 18px;
-}
 .search-result-row:hover {
   background: #ccc;
 }
@@ -226,6 +223,17 @@ h6 {
 /*****************
 =  NAVBAR
 ******************/
+.navbar-toggle {
+  margin-top: 18px;
+}
+.navbar-default .navbar-brand {
+  color: #dd361a;
+}
+.navigation .navbar-brand img {
+  width: 256px;
+  height: 40px;
+  margin-top: 15px;
+}
 .navbar .nav .navbar-title-small {
   font-size: 14px;
   font-weight: bold;

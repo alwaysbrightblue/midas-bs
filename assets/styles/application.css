@@ -1363,14 +1363,10 @@ ul.task-tags > li {
   color: #eee;
 }
 .splash-wrap {
-  position: relative;
   height: 400px;
-  display: block;
 }
-#scenario1.splash-wrap:after {
-  content: "";
+#scenario1.splash-wrap {
   background: url(/sections/hp/scenario1/images/capitol-rotunda-floor-9.jpg);
-  opacity: .5;
   background-repeat: no-repeat;
   background-size: cover;
 }

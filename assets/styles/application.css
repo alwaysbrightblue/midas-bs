@@ -96,10 +96,10 @@ input {
   padding-right: 20px;
 }
 .box-pad-t {
-  padding-top: 10px;
+  padding-top: 10px!important;
 }
 .box-pad-b {
-  padding-bottom: 10px;
+  padding-bottom: 10px!important;
 }
 .box-icon-text {
   margin-left: 5px;
@@ -225,6 +225,22 @@ h6 {
 }
 .highlight {
   background: #dd361a;
+  color: white;
+  padding: 5px 10px;
+}
+.highlight-trans {
+  background-color: rgba(221, 54, 26, 0.5);
+  color: white;
+  text-shadow: 0 1px 2px #292929;
+  padding: 5px 10px;
+}
+.highlight-complement1 {
+  background: #1ac1dd;
+  color: white;
+  padding: 5px 10px;
+}
+.highlight-complement2 {
+  background: #17adc6;
   color: white;
   padding: 5px 10px;
 }
@@ -1362,6 +1378,13 @@ ul.task-tags > li {
 .btn-midas:active {
   color: #eee;
 }
+.trans-cover-white {
+  content: "";
+  background: rgba(255, 255, 255, 0.7);
+  height: 100%;
+  width: auto;
+  z-index: 10000;
+}
 .splash-wrap {
   height: 400px;
 }
@@ -1379,12 +1402,14 @@ ul.task-tags > li {
 #splash-left {
   float: left;
   width: 40%;
-  padding-top: 150px;
+  margin-top: 80px;
+  padding: 20px;
 }
 #splash-right {
   float: right;
   width: 40%;
-  padding-top: 150px;
+  margin-top: 80px;
+  padding: 20px;
 }
 .splash-text {
   color: white;

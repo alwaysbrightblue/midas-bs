@@ -115,11 +115,11 @@ input {
 }
 
 .box-pad-t {
-  padding-top: 10px;
+  padding-top: 10px!important;
 }
 
 .box-pad-b {
-  padding-bottom: 10px;
+  padding-bottom: 10px!important;
 }
 
 .box-icon-text {
@@ -269,6 +269,25 @@ h1, h2, h3, h4, h5, h6 {
 
 .highlight {
   background: @base;
+  color: white;
+  padding: 5px 10px;
+}
+
+.highlight-trans {
+  background-color: fade(@base, 50%);
+  color: white;
+  text-shadow: 0 1px 2px #292929;
+  padding: 5px 10px;
+}
+
+.highlight-complement1 {
+  background: @complement1;
+  color: white;
+  padding: 5px 10px;
+}
+
+.highlight-complement2 {
+  background: @complement2;
   color: white;
   padding: 5px 10px;
 }

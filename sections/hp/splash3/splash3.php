@@ -5,14 +5,49 @@
 // getting the idea out. - Gabe Lloyd, Oct 6 2014 ?>
 
 <div class="container-fluid padding-left-none padding-right-none" id="container">
-<div class="splash-wrap" id="splash2">
-	<div id="splash-center">
-	<h1 class="text-center">Cross Agency Collaboration</h1>
-	<p class="lead text-center">Work with federal employees on projects you are passionate about.</p>
-	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">Learn More</button></a></div>
-</div><!-- /#splash -->
+<div class="splash-wrap">
+	<div class="col-md-4">
+	<div class="hero-wrapper" id="fs">
+      <div class="hero-widget well" id="allstar">
+            <a href="#">
+            <div class="icon">
+                 <i class="fa fa-clock-o"></i>
+            </div>
+            <div class="text">
+                <var>Save Time</var>
+              </a>  
+            </div>
+        </div>
+	    </div>
+	</div>
+    <div class="col-md-4">
+      <div class="hero-widget well" id="facebook">
+            <a href="#" target="_blank">
+            <div class="icon">
+                 <i class="fa fa-facebook-square"></i>
+            </div>
+            <div class="text">
+                <var>Make Connections</var>
+              </a>
+               
+            </div>
+            
+       </div>
+    </div>
+    <div class="col-md-4">
+        <div class="hero-widget well" id="twitter">
+            <a href="#" target="_blank">
+            <div class="icon">
+                 <i class="fa fa-twitter-square"></i>
+            </div>
+            <div class="text">
+                <var>Make a Difference</var>
+              </a>
+                
+            </div>
+         
+        </div>
+    </div>
+
 </div><!-- /.splash-wrap -->
 </div><!-- /.container-fluid-->
-
-<!-- we have to restart the container class here because we have a closing div tag in the footer.php file -->
-<div class="container-fluid padding-left-none padding-right-none" id="container">

@@ -13,6 +13,3 @@
 </div><!-- /#splash -->
 </div><!-- /.splash-wrap -->
 </div><!-- /.container-fluid-->
-
-<!-- we have to restart the container class here because we have a closing div tag in the footer.php file -->
-<div class="container-fluid padding-left-none padding-right-none" id="container">

@@ -1378,6 +1378,146 @@ ul.task-tags > li {
 .btn-midas:active {
   color: #eee;
 }
+#splash2.splash-wrap {
+  background-image: url(/sections/hp/splash2/images/capitol-rotunda-floor-6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.splash-wrap {
+  position: relative;
+  height: 400px;
+}
+#splash-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#splash-center {
+  color: white;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+.btn-midas {
+  background: #dd361a;
+  color: white;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 900;
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  transition: all 300ms linear;
+}
+.btn-midas:hover,
+.btn-midas:focus {
+  background: #c63017;
+  color: white;
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  transition: all 300ms linear;
+}
+.btn-midas:active {
+  color: #eee;
+}
+.start-hidden {
+  display: none!important;
+}
+.dealer-social {
+  list-style-type: none;
+  position: relative;
+  padding: 0;
+}
+.dealer-social li {
+  line-height: 2;
+  padding: 0 20px 20px 0;
+  display: inline-block;
+  position: relative;
+}
+.dealer-social-icon {
+  position: absolute;
+  top: 0;
+}
+.dealer-social-title {
+  margin: 0 0 0 33px;
+}
+.hero-wrapper {
+  text-align: center;
+}
+.hero-wrapper .hero-widget {
+  position: relative;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hero-wrapper .hero-widget.well {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+.hero-wrapper .icon {
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+}
+@media screen and (min-width: 320px) {
+  .hero-wrapper .icon {
+    font-size: 60px;
+    line-height: 60px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .hero-wrapper .icon {
+    font-size: 96px;
+    line-height: 96px;
+  }
+}
+.hero-wrapper var {
+  display: block;
+  font-style: normal;
+  clear: both;
+}
+@media screen and (min-width: 320px) {
+  .hero-wrapper var {
+    font-size: 14px;
+    line-height: 14px;
+    height: 32px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .hero-wrapper var {
+    font-size: 18px;
+    line-height: 18px;
+    height: 40px;
+  }
+}
+.hero-widget label {
+  font-weight: 200;
+}
+.hero-widget .options {
+  margin-top: 10px;
+}
+@media screen and (min-width: 320px) {
+  .well {
+    padding: 10px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .well {
+    padding: 19px;
+  }
+}
 .trans-cover-white {
   content: "";
   background: rgba(255, 255, 255, 0.7);

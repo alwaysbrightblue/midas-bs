@@ -1309,21 +1309,15 @@ ul.task-tags > li {
   position: relative;
   height: 400px;
 }
+.splash-box {
+  margin-top: 30px;
+  padding: 20px;
+}
 #splash-center-top {
   position: absolute;
   top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-#splash-left {
-  float: left;
-  margin-top: 80px;
-  padding: 20px;
-}
-#splash-right {
-  float: right;
-  margin-top: 80px;
-  padding: 20px;
 }
 #splash-center {
   position: absolute;

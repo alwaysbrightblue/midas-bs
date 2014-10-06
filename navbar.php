@@ -42,4 +42,4 @@
       </div> <!-- /.row -->
     </div> <!-- /.container -->
   </nav>
-    <div class="clearfix"></div>
+    

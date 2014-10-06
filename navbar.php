@@ -12,7 +12,7 @@
           </button>
       
          
-          <a class="navbar-brand" href="/"><img src="/assets/images/logo@2x.png" alt="Midas" title="Midas"></a>
+          <a class="navbar-brand" href="/"><img src="/assets/images/logo2.png" alt="Midas" title="Midas"></a>
           
            </div> <!-- /.navbar-header -->
        

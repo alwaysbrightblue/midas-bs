@@ -1336,6 +1336,9 @@ ul.task-tags > li {
 .text-on-dark {
   color: white;
 }
+.text-on-dark a {
+  color: #eee;
+}
 .tall-text {
   line-height: 1.6;
 }

@@ -1406,10 +1406,15 @@ ul.task-tags > li {
 }
 @media screen and (min-width: 320px) {
   .hero-wrapper {
-    width: 33.33333%;
+    width: 25%;
   }
 }
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 600px) {
+  .hero-wrapper {
+    width: 33%;
+  }
+}
+@media screen and (min-width: 992px) {
   .hero-wrapper {
     width: 25%;
   }

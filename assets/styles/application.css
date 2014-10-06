@@ -1428,27 +1428,6 @@ ul.task-tags > li {
 .btn-midas:active {
   color: #eee;
 }
-.start-hidden {
-  display: none!important;
-}
-.dealer-social {
-  list-style-type: none;
-  position: relative;
-  padding: 0;
-}
-.dealer-social li {
-  line-height: 2;
-  padding: 0 20px 20px 0;
-  display: inline-block;
-  position: relative;
-}
-.dealer-social-icon {
-  position: absolute;
-  top: 0;
-}
-.dealer-social-title {
-  margin: 0 0 0 33px;
-}
 .hero-wrapper {
   text-align: center;
 }

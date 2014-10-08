@@ -101,6 +101,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.85456e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 383816,
+		"inputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/sections\/hp-rotunda-looking-down.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.05075e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/sections\/hp-rotunda-looking-down.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/sections\/hp-rotunda-looking-down.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/screenshots\/mbs-hp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319411,
+		"inputAbbreviatedPath": "\/assets\/screenshots\/mbs-hp.jpg",
+		"outputAbbreviatedPath": "\/assets\/screenshots\/mbs-hp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/styles\/application.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -757,47 +801,16 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg": {
+	"\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.67923e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-6.jpg",
+		"initialSize": 7.17132e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 431177,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/capitol-rotunda-floor-9.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/sections\/hp\/splash1\/splash1.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/splash1.less",
-		"outputAbbreviatedPath": "\/sections\/hp\/css\/splash1.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
 		},
 	"\/sections\/hp\/splash1\/splash1.php": {
 		"fileType": 8192,

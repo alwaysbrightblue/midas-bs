@@ -101,61 +101,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/sections\/3235770204_020b243444_o.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.79491e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/sections\/3235770204_020b243444_o.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/sections\/3235770204_020b243444_o.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4.85456e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 383816,
-		"inputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/sections\/5467220834_7e4d0e1716_b.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/sections\/hp-rotunda-looking-down.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7.05075e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/sections\/hp-rotunda-looking-down.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/sections\/hp-rotunda-looking-down.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/screenshots\/mbs-hp.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 319411,
-		"inputAbbreviatedPath": "\/assets\/screenshots\/mbs-hp.jpg",
-		"outputAbbreviatedPath": "\/assets\/screenshots\/mbs-hp.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/styles\/application.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -772,51 +717,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/README.md",
-		"outputAbbreviatedPath": "\/README.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 377300,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6.09386e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7.02633e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/sections\/hp\/scenario1\/scenario1.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -825,17 +725,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7.17132e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/sections\/hp\/splash1\/splash1.php": {
 		"fileType": 8192,

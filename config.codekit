@@ -101,6 +101,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/sections\/3235770204_020b243444_o.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.79491e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/sections\/3235770204_020b243444_o.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/sections\/3235770204_020b243444_o.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/sections\/5467220834_5bc9862ea4_o.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -604,6 +615,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/javascripts\/scale.fix.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/scale.fix.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/scale.fix-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/bootstrap.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -750,47 +772,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg": {
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.67923e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-6.jpg",
+		"initialSize": 377300,
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg": {
+	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 431177,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/capitol-rotunda-floor-9.jpg",
+		"initialSize": 6.09386e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sections\/hp\/scenario1\/scenario1.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
+	"\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/scenario1.less",
-		"outputAbbreviatedPath": "\/sections\/hp\/css\/scenario1.css",
+		"initialSize": 7.02633e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/scenario1\/images\/cap-r-east-gallery.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
+		"processed": 0
 		},
 	"\/sections\/hp\/scenario1\/scenario1.php": {
 		"fileType": 8192,
@@ -992,6 +1017,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/sections\/hp\/splash4\/splash4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/pygment_trac.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/pygment_trac.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

@@ -9,7 +9,7 @@ Rearrange any of the homepage sections in the index.php file.
 
 IMAGE CREDITS:
 Splash sections 1 and 2
-http://www.tophomephoto.com/wallpapers/capitol-rotunda-floor-5389.html
+Uses Flickr images under Creative Commons license.
 
 "Open Opportunities has a Solution for You", Splash 4 is the header image from President's Innovations
 http://www.whitehouse.gov/innovationfellows

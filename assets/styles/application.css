@@ -1330,6 +1330,9 @@ ul.task-tags > li {
   position: relative;
   height: 400px;
 }
+.splash-wrap#splash1 {
+  height: 600px;
+}
 @media screen and (min-width: 320px) {
   .splash-box {
     margin-top: 0px;

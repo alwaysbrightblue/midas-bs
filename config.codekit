@@ -797,34 +797,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/sections\/hp\/scenario1\/scenario1.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/scenario1\/scenario1.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg": {
+	"\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7.17132e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
+		"initialSize": 282846,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down-2.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/sections\/hp\/splash1\/splash1.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/splash1.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-6.jpg": {
 		"fileType": 16384,

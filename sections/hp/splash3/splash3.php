@@ -1,8 +1,6 @@
 <?php $docRoot = getenv("DOCUMENT_ROOT"); ?>
 
-<?php // for mock up purposes only, I'm containing each section as a module.
-// for production, you would probably clean this up a bit, but this works for 
-// getting the idea out. - Gabe Lloyd, Oct 6 2014 ?>
+<?php // Styles are called from /less/splash.less ?>
 
 <div class="row-fluid padding-left-none padding-right-none">
 <div class="inline-block-center">

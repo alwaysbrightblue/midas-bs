@@ -1485,6 +1485,22 @@ a.icon-wrapper:focus {
   display: block;
   margin-bottom: 10px;
   text-align: center;
+  color: #dd361a;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+}
+.hero-wrapper .icon:hover,
+.hero-wrapper .icon:focus {
+  color: #eb6d58;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+  text-decoration: none;
 }
 @media screen and (min-width: 320px) {
   .hero-wrapper .icon {
@@ -1502,6 +1518,22 @@ a.icon-wrapper:focus {
   display: block;
   font-style: normal;
   clear: both;
+  color: #dd361a;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+}
+.hero-wrapper var:hover,
+.hero-wrapper var:focus {
+  color: #eb6d58;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+  text-decoration: none;
 }
 @media screen and (min-width: 320px) {
   .hero-wrapper var {

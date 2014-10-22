@@ -219,7 +219,14 @@ a.icon-wrapper {
 	.icon { 
 		display: block; 
 		margin-bottom: 10px; 
-		text-align: center; 
+		text-align: center;
+		color: @base; //supported styles if icons are not going to be links.
+		.transition;
+		&:hover, &:focus {
+			color: @lighten1;
+			.transition;
+			text-decoration: none;
+		}
 		@media screen and (min-width: 320px) {
 			font-size: 60px; 
 			line-height: 60px; 
@@ -233,6 +240,13 @@ a.icon-wrapper {
 		display: block; 
 		font-style: normal; 
 		clear: both;
+		color: @base; //supported styles if icons are not going to be links.
+		.transition;
+		&:hover, &:focus {
+			color: @lighten1;
+			.transition;
+			text-decoration: none;
+		}
 		@media screen and (min-width: 320px){
 			font-size:14px;
 			line-height: 14px;

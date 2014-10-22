@@ -36,9 +36,9 @@
 	    
 	    	<div class="hero-wrapper">
 	        <div class="hero-widget well" id="chart">
-	            <a href="#" target="_blank" class="icon-wrapper">
+	           
 	            <div class="icon"><i class="fa fa-line-chart"></i></div>
-	            <div class="text"><var>Make a Difference</var></div></a>
+	            <div class="text"><var>Make a Difference</var></div>
 	        </div>
 	        </div> <!-- hero-wrapper -->
 	

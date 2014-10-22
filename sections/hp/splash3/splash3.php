@@ -7,15 +7,15 @@
 <div class="row-fluid padding-left-none padding-right-none">
 <div class="inline-block-center">
 			
-			<div class="hero-wrapper">
-			  <!--
+			<!-- <div class="hero-wrapper">
+			  
 			  <div class="hero-widget well" id="savetime">
 			        <a href="#">
 			        <div class="icon"><i class="fa fa-clock-o"></i></div> --> <!-- icon -->
 			  <!--      <div class="text"><var>Save Time</var></div></a> --> <!-- text -->
 			  <!--  </div> --> <!-- hero-widget well -->
-			  
-			</div> <!-- hero-wrapper -->
+
+			<!-- </div> --> <!-- hero-wrapper -->
 			
 	 
 			<div class="hero-wrapper">
@@ -23,8 +23,18 @@
 			    <a href="#" target="_blank">
 			    <div class="icon"><i class="fa fa-comments"></i></i></div>
 			    <div class="text"><var>Make Connections</var></div></a>
-			    </div> 
+		    </div> 
 			</div><!-- hero-wrapper -->
+
+			<div class="hero-wrapper">
+			 
+			  <div class="hero-widget well" id="buildskills">
+			        <a href="#">
+			        <div class="icon"><i class="fa fa-cogs"></i></div>  <!-- icon -->
+			      <div class="text"><var>Build Skills</var></div></a>  <!-- text -->
+			    </div>  <!-- hero-widget well -->
+			 
+			</div> <!-- hero-wrapper -->
 	    
 	    	<div class="hero-wrapper">
 	        <div class="hero-widget well" id="chart">

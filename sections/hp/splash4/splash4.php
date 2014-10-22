@@ -12,7 +12,7 @@
 	<h1 class="text-center tall-text text-on-dark ">Open Opportunities has a <span class="highlight-complement1">solution</span> for you.</h1>
 	
 
-	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">View All Opportunities</button></a></div>
+	<div class="text-center"><a href="#"><button class="btn btn-midas btn-base" id="center">View All Opportunities</button></a></div>
 
 	</div><!-- /.col-md-4 -->
 	<div class="col-md-6 pull-right">

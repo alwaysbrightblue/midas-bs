@@ -18,7 +18,7 @@
 
 	<div class="col-md-5 col-sm-5 splash-box pull-right">
 	<p class="lead text-center tall-text"><span class="highlight-complement1">Solution:</span> Post a Work Group request to thousands of interested federal employees.</p>
-	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">View Work Group Requests</button></a></div>
+	<div class="text-center"><a href="#"><button class="btn btn-midas btn-base" id="center">View Work Group Requests</button></a></div>
 	</div><!-- /#splash-left -->
 </div>
 </div><!-- /.splash-wrap-->

@@ -134,7 +134,7 @@
 }
 
 .btn-midas {
-	background: @base;
+	
 	color: white;
 	padding: 10px 20px;
 	margin-bottom: 10px;
@@ -142,17 +142,41 @@
 	font-size: 18px;
 	font-weight: 900;
 	.transition();
-	&:hover, &:focus {
-		background: @darken1;
-		color: white;
-		.transition ;
-	}
 	&:active {
 		color: #eee;
 	}
 }
 
-/////////////////////////////////  SOCIAL ICONS
+.btn-base {
+	background: @base;
+	&:hover, &:focus {
+		background: @darken1;
+		color: white;
+		.transition ;
+	}
+}
+
+.btn-complement1 {
+	background: @complement1;
+	&:hover, &:focus {
+		background: @complement2;
+		color: white;
+		.transition ;
+	}
+}
+
+
+/////////////////////////////////  SPLASH 3 that has the FontAwesome Icons
+
+a {
+	color: @base;
+	.transition;
+	&:hover, &:focus {
+		color: @lighten1;
+		.transition;
+		text-decoration: none;
+	}
+}
 
 .inline-block-center {
   text-align: center;

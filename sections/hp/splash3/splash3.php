@@ -43,6 +43,6 @@
 	        </div> <!-- hero-wrapper -->
 	
 	    <div class="clearfix"></div>
-	<div class="text-center"><a href="#"><button class="btn btn-midas" id="center">Get Started</button></a></div>
+	<div class="text-center"><a href="#"><button class="btn btn-midas btn-complement1" id="center">Get Started</button></a></div>
 </div><!-- /.splash-wrap -->
 </div><!-- /.row-fluid-->

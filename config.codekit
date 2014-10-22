@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17945",
+"creatorBuild": "18027",
 "files": {
 	"\/assets\/images\/ac\/wikipedia.png": {
 		"fileType": 32768,
@@ -723,26 +723,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/variables.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/variables.less",
-		"outputAbbreviatedPath": "\/css\/variables.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
 	"\/navbar.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -808,6 +788,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.17132e+06,
+		"inputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
+		"outputAbbreviatedPath": "\/sections\/hp\/splash1\/images\/hp-rotunda-looking-down.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/sections\/hp\/splash2\/images\/capitol-rotunda-floor-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -849,66 +840,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/sections\/hp\/splash2\/splash2.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash2\/splash2.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.67923e+06,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-6.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-9.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-9.jpg",
-		"outputAbbreviatedPath": "\/sections\/hp\/splash3\/images\/capitol-rotunda-floor-9.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/sections\/hp\/splash3\/splash3.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash3\/splash3.less",
-		"outputAbbreviatedPath": "\/sections\/hp\/css\/splash3.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
-	"\/sections\/hp\/splash3\/splash3.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash3\/splash3.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/sections\/hp\/splash4\/images\/capitol-rotunda-floor-6.jpg": {
 		"fileType": 16384,
@@ -973,15 +904,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/sections\/hp\/splash4\/splash4.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sections\/hp\/splash4\/splash4.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/stylesheets\/pygment_trac.css": {
 		"fileType": 16,

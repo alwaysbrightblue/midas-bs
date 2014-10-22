@@ -9,7 +9,7 @@
 <div class="container-fluid padding-left-none padding-right-none" id="container">
 <div class="splash-wrap" id="splash1">
 	<div id="splash-center">
-	<h1 class="text-center">Cross Agency Collaboration</h1>
+	<h1 class="text-center">Hassle Free Collaboration</h1>
 	<p class="lead text-center">Work with federal employees on projects you are passionate about.</p>
 	<div class="text-center"><a href="#"><button class="btn btn-midas btn-base" id="center">View Open Opportunities</button></a></div>
 	<div class="text-center text-on-dark text-muted"><a href="#">Learn More</a></div>

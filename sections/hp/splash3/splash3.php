@@ -18,7 +18,7 @@
 	 
 			<div class="hero-wrapper">
 			<div class="hero-widget well" id="comments">
-			    <a href="#" target="_blank">
+			    <a href="#" target="_blank" class="icon-wrapper">
 			    <div class="icon"><i class="fa fa-comments"></i></i></div>
 			    <div class="text"><var>Make Connections</var></div></a>
 		    </div> 
@@ -27,7 +27,7 @@
 			<div class="hero-wrapper">
 			 
 			  <div class="hero-widget well" id="buildskills">
-			        <a href="#">
+			        <a href="#" target="_blank" class="icon-wrapper">
 			        <div class="icon"><i class="fa fa-cogs"></i></div>  <!-- icon -->
 			      <div class="text"><var>Build Skills</var></div></a>  <!-- text -->
 			    </div>  <!-- hero-widget well -->
@@ -36,7 +36,7 @@
 	    
 	    	<div class="hero-wrapper">
 	        <div class="hero-widget well" id="chart">
-	            <a href="#" target="_blank">
+	            <a href="#" target="_blank" class="icon-wrapper">
 	            <div class="icon"><i class="fa fa-line-chart"></i></div>
 	            <div class="text"><var>Make a Difference</var></div></a>
 	        </div>

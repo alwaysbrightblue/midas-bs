@@ -1422,7 +1422,7 @@ ul.task-tags > li {
   -ms-transition: all 200ms linear;
   transition: all 200ms linear;
 }
-a {
+a.icon-wrapper {
   color: #dd361a;
   -webkit-transition: all 200ms linear;
   -moz-transition: all 200ms linear;
@@ -1430,8 +1430,8 @@ a {
   -ms-transition: all 200ms linear;
   transition: all 200ms linear;
 }
-a:hover,
-a:focus {
+a.icon-wrapper:hover,
+a.icon-wrapper:focus {
   color: #eb6d58;
   -webkit-transition: all 200ms linear;
   -moz-transition: all 200ms linear;

@@ -24,6 +24,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/dg-logo-sm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8543,
+		"inputAbbreviatedPath": "\/assets\/images\/dg-logo-sm.png",
+		"outputAbbreviatedPath": "\/assets\/images\/dg-logo-sm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/dggov-logo-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10240,
+		"inputAbbreviatedPath": "\/assets\/images\/dggov-logo-1.png",
+		"outputAbbreviatedPath": "\/assets\/images\/dggov-logo-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/dggov-logo-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9089,
+		"inputAbbreviatedPath": "\/assets\/images\/dggov-logo-2.png",
+		"outputAbbreviatedPath": "\/assets\/images\/dggov-logo-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/dggov-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10240,
+		"inputAbbreviatedPath": "\/assets\/images\/dggov-logo.png",
+		"outputAbbreviatedPath": "\/assets\/images\/dggov-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/login\/linkedin.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -61,7 +105,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10240,
+		"initialSize": 11119,
 		"inputAbbreviatedPath": "\/assets\/images\/logo2.png",
 		"outputAbbreviatedPath": "\/assets\/images\/logo2.png",
 		"outputPathIsOutsideProject": 0,

@@ -9,9 +9,9 @@
 <div class="container-fluid padding-left-none padding-right-none" id="container">
 <div class="splash-wrap" id="splash1">
 	<div id="splash-center">
-	<h1 class="text-center">Hassle Free Collaboration</h1>
-	<p class="lead text-center">Work with federal employees on projects you are passionate about.</p>
-	<div class="text-center"><a href="#"><button class="btn btn-midas btn-base" id="center">View Open Opportunities</button></a></div>
+	<h1 class="text-center">Making Government Innovation Happen</h1>
+	<p class="lead text-center">a distributed approach to government problem solving</p>
+	<div class="text-center"><a href="#"><button class="btn btn-midas btn-base" id="center">Get Started Today</button></a></div>
 	<div class="text-center text-on-dark text-muted"><a href="#">Learn More</a></div>
 </div><!-- /#splash -->
 </div><!-- /.splash-wrap -->

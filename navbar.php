@@ -12,7 +12,7 @@
           </button>
       
          
-          <a class="navbar-brand" href="/"><img src="/assets/images/logo2.png" alt="Midas" title="Midas"></a>
+          <a class="navbar-brand" href="/"><img src="/assets/images/logo-oo-14.png" alt="Midas" title="Midas"></a>
           
            </div> <!-- /.navbar-header -->
        
@@ -22,11 +22,11 @@
         
         <div class="collapse navbar-collapse navbar-right">
           <ul class="nav navbar-nav">
-            <li class="projects"><a href="/projects" class="nav-link"><i class="fa fa-rocket"></i>
+           <!-- <li class="projects"><a href="/projects" class="nav-link"><i class="fa fa-rocket"></i>
             <span class="navbar-title-small" data-i18n="Browse">Browse</span><br>
             <span class="navbar-title-big" data-i18n="Project_plural">Work Groups</span>
-          </a>
-        </li>
+          </a> 
+        </li>-->
             <li class="tasks"><a href="/tasks" class="nav-link"><i class="fa fa-tags"></i>
             <span class="navbar-title-small" data-i18n="Browse">Browse</span><br>
             <span class="navbar-title-big" data-i18n="Task_plural">Opportunities</span>

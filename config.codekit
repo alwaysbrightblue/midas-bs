@@ -134,6 +134,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/logo-oo-12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9801,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-oo-12.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-oo-12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logo-oo-13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9921,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-oo-13.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-oo-13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logo-oo-14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9820,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-oo-14.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-oo-14.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logo-oo-15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8573,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-oo-15.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-oo-15.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/logo-oo-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
